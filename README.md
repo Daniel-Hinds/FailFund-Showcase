@@ -51,7 +51,8 @@ This project helped me deepen my understanding of:
 ---
 
 ## 📸 Screenshots
-
+Dashboard
 <img src="https://failfund.net/images/dashboard.jpg" width="100%" alt="Dashboard preview" />
 
-<img src="https://failfund.net/images/goal
+Set Goals
+<img src="https://failfund.net/images/goal.jpg" width="100%" alt="Dashboard preview" />
