@@ -5,8 +5,6 @@
 > “Turn good intentions into real outcomes — with consequences.”
 
 ---
-Please note this is a showcase repo only, the actual source code is private
----
 
 ## 🚀 Live Demo
 [https://failfund.net](https://failfund.net)  
@@ -50,6 +48,8 @@ This project helped me deepen my understanding of:
 - **Payments:** Stripe (Setup Intents, automatic billing)
 - **Deployment:** Vercel
 
+---
+Please note this is a showcase repo only, the actual source code is private
 ---
 
 ## 📸 Screenshots
