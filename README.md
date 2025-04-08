@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-[https://failfund.app](https://failfund.app)  
+[https://failfund.app](https://failfund.net)  
 *(No login required to explore public pages)*
 
 ---
@@ -52,6 +52,6 @@ This project helped me deepen my understanding of:
 
 ## 📸 Screenshots
 
-<img src="https://failfund.app/images/dashboard.jpg" width="100%" alt="Dashboard preview" />
+<img src="https://failfund.net/images/dashboard.jpg" width="100%" alt="Dashboard preview" />
 
-<img src="https://failfund.app/images/goal
+<img src="https://failfund.net/images/goal
