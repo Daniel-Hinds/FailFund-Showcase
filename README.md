@@ -55,4 +55,4 @@ Dashboard
 <img src="https://failfund.net/images/dashboard.jpg" width="100%" alt="Dashboard preview" />
 
 Set Goals
-<img src="https://failfund.net/images/goal.jpg" width="100%" alt="Dashboard preview" />
+<img src="https://failfund.net/images/setGoal.jpg" width="100%" alt="Set Goal preview" />
