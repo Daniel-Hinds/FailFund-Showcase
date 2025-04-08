@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-[https://failfund.app](https://failfund.net)  
+[https://failfund.net](https://failfund.net)  
 *(No login required to explore public pages)*
 
 ---
