@@ -5,6 +5,8 @@
 > “Turn good intentions into real outcomes — with consequences.”
 
 ---
+Please note this is a showcase repo only, the actual source code is private
+---
 
 ## 🚀 Live Demo
 [https://failfund.net](https://failfund.net)  
